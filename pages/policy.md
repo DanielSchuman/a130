@@ -14,19 +14,21 @@ Agencies shall establish agency-wide planning and budgeting processes in accorda
 
 **1) Strategic Planning**
 
-In support of agency missions and business needs, and as part of the agency's overall strategic and performance planning processes, agencies shall develop and maintain an Agency Information Strategy that describes the agency's technology and information resources goals, including but not limited to the processes described in this Circular. The Agency Information Strategy shall support the goals of the Agency Strategic Plan required by the Government Performance and Results Modernization Act of 2010 (GPRA Modernization Act). The Agency Information Strategy shall demonstrate how these goals map to the agency's mission and organizational priorities. These goals should be specific, verifiable, and measurable, so that progress against these goals can be tracked. The agency should review its Agency Information Strategy annually alongside the Annual Performance Plan reviews, required by the GPRA Modernization Act, to determine if there are any performance gaps or changes to mission needs, priorities, or goals. As part of the planning and maintenance of an effective Information Strategy, agencies shall consider the following, in addition to all other requirements in this Circular:
+In support of agency missions and business needs, and as part of the agency's overall strategic and performance planning processes, agencies shall develop and maintain a publicly-available Agency Information Strategy that describes the agency's technology and information resources goals, including but not limited to the processes described in this Circular. The Agency Information Strategy shall support the goals of the Agency Strategic Plan required by the Government Performance and Results Modernization Act of 2010 (GPRA Modernization Act). The Agency Information Strategy shall demonstrate how these goals map to the agency's mission and organizational priorities. These goals should be specific, verifiable, and measurable, so that progress against these goals can be tracked. The agency should review its Agency Information Strategy annually alongside the Annual Performance Plan reviews, required by the GPRA Modernization Act, to determine if there are any performance gaps or changes to mission needs, priorities, or goals. As part of the planning and maintenance of an effective Information Strategy, agencies shall consider the following, in addition to all other requirements in this Circular:
 
   a) Taking explicit account of information resources and information technology (IT) assets, personnel, and policies when planning, budgeting, and executing Federal programs and services;
   
   b) Maintaining an inventory of the agency's major information systems, holdings, and dissemination products; a description of the agency's major information and record locator systems; an inventory of the agency's other information resources, such as personnel and funding (at the level of detail that the agency determines is most appropriate for its use in managing the agency's information resources); and an online resource for persons to obtain public information from the agency;<sup id="fnr2"><a href="#fn2">2</a></sup>  
   
-  c) Regularly assess throughout the life of each information system, the inventory of the physical and software assets associated with the system, the maintainability and supportability of the information resources and infrastructure supporting the system, and actively determine when significant upgrades, replacements and/or disposition is required to effectively support agency missions or business functions and/or adequately protect agency assets;
+  c) Regularly assess throughout the life of each information system: the inventory of the physical and software assets associated with the system, the maintainability and supportability of the information resources and infrastructure supporting the system, and actively determine when significant upgrades, replacements and/or disposition is required to effectively support agency missions or business functions and/or adequately protect agency assets;
   
-  d) Ensuring the terms and conditions of contracts involving the processing, storage, access to, transmission, and destruction of Federal information are sufficient to enable agencies to meet their policy and legal requirements;
+  d) Ensuring the terms and conditions of contracts involving the processing, storage, access to, transmission, and destruction of Federal information are sufficient to enable agencies to meet (if not surpass) their policy and legal requirements;
   
-  e) Ensuring that all resources planning and management activities consider information security, privacy, and supply chain security issues throughout the system development life cycle and that the risks associated with those issues are appropriately managed; and
+  e) Ensuring that all resources planning and management activities consider information security, privacy, public transparency, and supply chain security issues throughout the system development life cycle and that the risks associated with information security, privacy, and supply chain security issues are appropriately managed; and
   
   f) Ensuring that CIOs are made aware of information systems and components that cannot be appropriately protected or secured and that such systems are given a high priority for upgrade, replacement, or retirement.<sup id="fnr3"><a href="#fn3">3</a></sup> 
+
+  g) Creating and maintaining an Enterprise Data Inventory (Inventory), which includes (i) creating and maintaining a Public Data Listing, (ii) creating a process to engage with customers to help facilitate and prioritize data release, (iii) documenting if data cannot be released, and (iv) clarify roles and responsibilities for promoting efficient and effective data release. See "Supplemental Guidance on the Implementation of M-13-13 'Open Data Policy – Managing Information as an Asset'" for more details on implementation.
 
 **2) Business Continuity Planning**
 
@@ -144,7 +146,7 @@ Agencies are responsible for establishing a decision-making process that provide
   
   f) Qualitative and quantitative research methods are used to determine the goals, needs, and behaviors of current and prospective managers and users of the service to strengthen the understanding of requirements;
   
-  g) Priority in the selection of information system technologies and services, should be given in the following order: First, to the use of available and suitable existing Federal information systems, software, technologies, and shared services and/or information processing facilities; Second, to the acquisition of commercially available off-the-shelf components and/or software-as-a-service solutions; and Third, to custom developed software and technologies. All proposed solutions should be merit-based and consider factors such as performance, cost, security, interoperability, ability to share or re-use, and availability of quality support. Decisions to acquire or develop custom or duplicative solutions must be justified based on comparative analysis conducted in a technology neutral manner that is merit-based and considers factors such as performance, cost, security, interoperability, ability to share or re-use, and availability of quality support, analysis of overall cost-effectiveness of the solution throughout the life cycle, the ability to meet acceptable levels of security, and the ability to meet specific and high-priority mission or operational requirements. To the degree possible, any custom software development activity or custom software acquisition should include contractual rights for re-use throughout the Federal government;
+  g) Priority in the selection of information system technologies and services, should be given in the following order: First, to the use of available and suitable existing Federal information systems, software, technologies, and shared services and/or information processing facilities; Second, to the acquisition of commercially available off-the-shelf components and/or software-as-a-service solutions; and Third, to custom developed software and technologies. All proposed solutions should be merit-based and consider factors such as performance, cost, security, interoperability, open source, ability to share or re-use, and availability of quality support. Decisions to acquire or develop custom or duplicative solutions must be justified based on comparative analysis conducted in a technology neutral manner that is merit-based and considers factors such as performance, cost, security, interoperability, ability to share or re-use, and availability of quality support, analysis of overall cost-effectiveness of the solution throughout the life cycle, the ability to meet acceptable levels of security, and the ability to meet specific and high-priority mission or operational requirements. To the degree possible, any custom software development activity or custom software acquisition should include contractual rights for re-use throughout the Federal government;
   
   h) Information technology needs are met through acquiring scalable, provisioned IT services<sup id="fnr7"><a href="#fn7">7</a></sup> when it is cost-effective to do so rather than the agency developing its own information system or equipment;
   
@@ -161,6 +163,8 @@ Agencies are responsible for establishing a decision-making process that provide
   n) Records management functions and retention requirements are incorporated into the design, development, and implementation of information systems, particularly Internet resources to include storage solutions and cloud-based services such as software as a service, platform as a service, and infrastructure as a service; and
   
   o) Investments use an EVMS and Integrated Baseline Review (IBR), when appropriate, as required by Federal Acquisition Regulation Subpart 34.2 or, when an EVMS is not required, implement a baseline validation process as part of an overall investment risk management strategy consistent with OMB guidance.
+  
+  p) Information systems and processes must facilitate openness and transparency of federal information to the maximum extent permissible under applicable law, with a clear presumption that in the face of doubt, openness prevails.
 
 **3) Enterprise Architecture**
 
@@ -226,19 +230,27 @@ Agencies shall:
 
  a) Information is managed throughout its life cycle to promote openness and interoperability, and to safeguard systems and information; this includes all stages through which the information passes, including: creating or collection, processing, maintenance, storage, use, sharing, dissemination, and disposition; and
 
- b) Information is managed with a presumption in favor of proactively making information accessible, discoverable, and usable by the public to the extent permitted by statute and subject to existing terms and conditions, privacy, security, and other valid restrictions pertaining to access, use, and dissemination; and
+ b) Information is managed with a presumption in favor of proactively making information accessible, discoverable, and usable by the public to the maximum extent permitted by statute, where in the face of doubt openness should prevail, subject only to legal destrictions pertaining to access, use, and dissemination; and
 
- c) Information is managed with clearly designated roles and responsibilities to promote effective and efficient design and operation of information resources management processes within their agency.
+ c) Information is managed with clearly designated roles and responsibilities to promote effective and efficient design and operation of information resources management processes within their agency; and
+ 
+ d) Government does not keep information confidential merely because public officials might be embarrassed by disclosure, because errors and failures might be revealed, or because of speculative or abstract fears. Nondisclosure should never be based on an effort to protect the personal interests of Government officials at the expense of those they are supposed to serve. 
 
 2) Agencies shall use these practices to:
 
  a) Collect or create information in a way that supports downstream interoperability among information systems and streamlines dissemination to the public, where appropriate, by:
  
-  i. Creating or collecting all new information electronically by default, in machine-readable open formats, using relevant data standards, that upon creation includes standard extensible metadata identifying any restrictions to access, use, and dissemination in accordance with OMB guidance; and
+  i. Creating or collecting all new information electronically by default, in machine-readable open formats, using relevant data standards (including unique IDs, common identifiers, and cross-walks), that upon creation includes standard extensible metadata identifying any restrictions to access, use, and dissemination in accordance with OMB guidance; and
  
-  ii. For all instances where new Federal information creation or collection does not fall squarely within the public domain as U.S. government work, agencies shall include appropriate provisions in contracts to meet objectives of open data while recognizing that contractors may have proprietary interests in such information, and that protection of such information may be necessary to encourage qualified contractors to participate in and apply innovative concepts to government programs.
+  ii. For all instances where new Federal information creation or collection does not fall squarely within the public domain as U.S. government work, agencies shall endeavor to maximize openness in all contracts, including adding appropriate provisions in contracts to meet objectives of open data, while recognizing that in some instances contractors may have valid proprietary interests in such information that meet the high standard of overriding the public interest in openness, and that protection of such information to encourage qualified contractors to participate in and apply innovative concepts to government programs may be necessary in limited and carefully circumscribed instances.
   
-  b) Ensure that the public has timely and equitable online access to the agency's public information using a manner that is informed directly by public engagement and balanced against the costs of dissemination or accessibility improvements and demonstrate usefulness of the information.
+  b) Ensure that the public has timely and equitable online access to the agency's public information using a manner that is informed directly by public engagement and balanced against the costs of dissemination or accessibility improvements. Agencies shall establish best practices for proactive disclosure that are based upon:
+  
+    i. A comprehensive review of how the agency already discloses information to the public, such as through FOIA requests, responses to specialized reuest forms, to media enquiries, as letters to Congress or OMB, information disclosure in reports that are online but not in machine readable formats, etc.
+    
+    ii. A comprehensive review of how information request processes work. For example, through a review of FOIA logs; an examination of responses to specialized request forms that an agency uses to receive requests from the public, with an examination of the volume of requests received per form and from where the responsive data is pulled; a review of media logs that track the topics upon which agencies regularly receive media requests; where reports to Congress or OMB are published; the format in which reports are published, etc.
+    
+    iii. Looking at the corpus of (i) what information the agency discloses and (ii) where responsive data is pulled from, determine whether information is drawn repeatedly from a certain source or set of sources and whether that underlying data can be proactively disclosed, with a priority for data sources that are most frequently drawn upon or most time consuming to answer.
 
 3) Agencies shall ensure that the public can appropriately discover, and provide feedback about disseminated information and unreleased information by:
 
@@ -250,16 +262,15 @@ Agencies shall:
 
   a) Publishing information online in a machine-readable open format that can be retrieved, downloaded, indexed, and searched by commonly used web search applications and is public, accessible, described, reusable, complete, and timely. This includes providing such information in a format(s) accessible to employees and members of the public with disabilities.<sup id="fnr13"><a href="#fn13">13</a></sup> 
   
-  b) Avoid establishing, or permitting others to establish on their behalf, exclusive, restricted, or other distribution arrangements that interfere with allowing the agency to disseminate its information on a timely and equitable basis. In certain cases, it may be appropriate to engage in time-limited restrictions or exclusively in cases where the agency, due to resource constraints, would otherwise be unable to provide the information to the public on its own;
+  b) Avoid establishing, or permitting others to establish on their behalf, exclusive, restricted, or other distribution arrangements that interfere with allowing the agency to disseminate its information on a timely and equitable basis. In certain cases, it may be appropriate to engage in time-limited restrictions or exclusively in cases where the agency, due to resource constraints, would otherwise be unable to provide the information to the public on its own, while making efforts to minimize the gap in availability and maximize timely, comprehensive public access;
   
   c) Avoid establishing unnecessary restrictions, including charging of fees or royalties, on the reuse, resale, or re-dissemination of Federal information by the public;<sup id="fnr14"><a href="#fn14">14</a></sup> 
   
-  d) Recovering only the cost of dissemination if fee and user charges are necessary. They must exclude from calculation the costs associated with original collection and processing of the information. Exceptions to this policy are:
+  d) Recovering only the cost of dissemination if fee and user charges are required by law without option for waver. They must exclude from calculation the costs associated with original collection and processing of the information. Exceptions to this policy are:
+  
   i. Where statutory requirements are at variance with the policy;
   
-  ii. Where the agency collects, processes, and disseminates the information for the benefit of a specific identifiable group beyond the benefit to the general public;
-  
-  iii. Where the agency plans to establish user charges at less than cost of dissemination because of a determination that higher charges would constitute a significant barrier to properly performing the agency's functions, including reaching members of the public whom the agency has a responsibility to inform; or
+  ii. Where the agency plans to establish user charges at less than cost of dissemination because of a determination that higher charges would constitute a significant barrier to properly performing the agency's functions, including reaching members of the public whom the agency has a responsibility to inform; or
   
   iv. Where the Director of OMB determines an exception is warranted.
 
@@ -269,7 +280,7 @@ Agencies shall:
 
 5) Agencies shall manage information in accordance with the following principles:
   
-  a) Providing notice of Federal agency practices for the collection, use, maintenance, disclosure, dissemination, and destruction of records, as appropriate;
+  a) Providing meaningful notice of Federal agency practices for the collection, use, maintenance, disclosure, dissemination, and destruction of records, as appropriate;
   
   b) Providing adequate notice when initiating, substantially modifying, or terminating dissemination of significant information that the public may be using;
   
@@ -288,6 +299,8 @@ Agencies shall:
   i) Complying with all applicable statutes governing the disclosure of information, including those related to the quality, privacy, confidentiality, security, and other valid access, use, and dissemination restrictions; and
   
   j) If not public domain, provide details on the license status to potential data users to help these potential users understand whether there are any restrictions on copying, publishing, distributing, transmitting, adapting, or otherwise using the information for commercial or non-commercial purposes.
+  
+  k) Collaborating with the public as to the establishment and modification of policies so as to favor maximal public access to information.
 
 ### Footnotes
 
