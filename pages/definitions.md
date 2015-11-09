@@ -21,7 +21,7 @@ f. 'Chief Information Officer' (CIO) means the senior official that, pursuant to
 
 g. 'Chief Information Officers Council' (CIO Council) means the Council codified in the E-Government Act of 2002 (44 U.S.C. § 101).
 
-h. 'Controlled Unclassified Information' (CUI) means Information that law, regulation, or government-wide policy requires to have safeguarding or disseminating controls, excluding information that is classified under Executive Order 13526, Classified National Security Information, December 29, 2009, or any predecessor or successor order, or the Atomic Energy Act of 1954, as amended.
+h. 'Controlled Unclassified Information' (CUI) means Information that law, regulation, or government-wide policy requires to have safeguarding or disseminating controls and is properly managed and categorized under Executive Order 13556, excluding information that is classified under Executive Order 13526, Classified National Security Information, December 29, 2009, or any predecessor or successor order, or the Atomic Energy Act of 1954, as amended.
 
 i. 'Dissemination' means the government-initiated distribution of information to a nongovernment entity, including the public. Not considered dissemination within the meaning of this Circular is distribution limited to government employees, intra- or interagency use or sharing of Federal information, and responses to requests for agency records under the Freedom of Information Act (5 U.S.C. § 552) or the Privacy Act (5 U.S.C. § 552a).
 
@@ -75,7 +75,7 @@ ee. 'Major information technology investment' means an investment that requires 
 
 ff. 'National security system' means any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency: the function, operation, or use of which involves intelligence activities; involves cryptologic activities related to national security; involves command and control of military forces; involves equipment that is an integral part of a weapon or weapons system; or is critical to the direct fulfillment of military or intelligence missions (excluding a system that is to be used for routine administrative and business applications, for example, payroll, finance, logistics, and personnel management applications); or is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive Order or an Act of Congress to be kept classified in the interest of national defense or foreign policy (44 U.S.C. § 3542).
 
-gg. 'Open data' means publicly available data structured in a way that enables the data to be fully discoverable and usable by end users. Generally, open data are public, accessible, machine-readable, described, reusable, complete, timely, and managed in manners consistent with OMB guidance defining these terms, including relevant privacy, security, and other valid access, use, and dissemination restrictions.
+gg. 'Open data' means publicly available data structured in a way that enables the data to be fully discoverable and usable by end users. Generally, open data are public, accessible, machine-readable, described, reusable, complete, timely, primary, license-free, permanent, use commonly-owned standards, and there is no charge to access, and is managed in manners consistent with OMB guidance defining these terms, including relevant privacy, security, and other valid access, use, and dissemination restrictions. Further explanation of what constitutes open data and how to evaluate it in Appendix II.
 
 hh. 'Personally identifiable information' (PII) means information that can be used to distinguish or trace an individual's identity, either alone or when combined with other information that is linked or linkable to a specific individual.
 
@@ -83,7 +83,7 @@ ii. 'Privacy Impact Assessment' (PIA) means an analysis of how information is ha
 
 jj. 'Provisioned IT Service' means an IT service that is owned, operated, and provided by an outside vendor or external government organization, and consumed by the agency on an as-needed basis.
 
-kk. 'Public information' means any information, regardless of form or format, that an agency discloses, disseminates, or makes available to the public (44 U.S.C. chapter 35).
+kk. 'Public information' means any information, regardless of form or format, that an agency discloses, disseminates,  makes available to the public, or becomes available to the public (44 U.S.C. chapter 35).
 
 ll. 'Records' means all recorded information, regardless of form or characteristics, made or received by a Federal agency under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the United States Government or because of the informational value of data in them (44 U.S.C. § 3301).
 
